@@ -1,6 +1,6 @@
 # 
 
-<img src = "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7bd0e32f-fe3e-469a-ada8-1fbe742ab467/dbdj3hc-435b79d7-9dd3-42ae-970f-eb0debfceef1.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdiZDBlMzJmLWZlM2UtNDY5YS1hZGE4LTFmYmU3NDJhYjQ2N1wvZGJkajNoYy00MzViNzlkNy05ZGQzLTQyYWUtOTcwZi1lYjBkZWJmY2VlZjEucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WUxVjo5jtxvyqvkxUM7EPOQDLiFGvHgNEuzvf9AXl5M">
+<img src = "https://i.imgur.com/x80jaII.png">
 
 <img src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" class="center">  
 
