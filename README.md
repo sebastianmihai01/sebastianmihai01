@@ -1,6 +1,6 @@
-### Hello visitor! 👋
+![Introduction](https://www.mathworks.com/content/dam/mathworks/mathworks-dot-com/images/responsive/supporting/campaigns/products/deep-learning-vs-machine-learning-interactive-ebook-thumbnail.jpg)
 
-<image src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">  
+<img src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" class="center">  
 
 #  
   
