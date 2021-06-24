@@ -1,10 +1,20 @@
-<img src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" class="center"> 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 
-#
+
+<img align = "left" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" class="center"> 
+
+<hr>
+<img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact">
+
+
+<hr size="8" width="100%" color="red">  
+
+
 ### My Contact Information:
-<img align="left" alt="Sebastian Mihai - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
 
-<img align="left" alt="Sebastian Mihai - Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/_sebastianmihai/
+<img alt="Sebastian Mihai - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
+
+<img alt="Sebastian Mihai - Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/_sebastianmihai/
 #   
 ### My Skills:  
   
