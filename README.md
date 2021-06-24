@@ -4,14 +4,16 @@
 <img align = "left" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
 <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
+<hr>
 
-#
+
 ### My Contact Information:
 
-<img alt="Sebastian Mihai - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
+<img alt="Sebastian Mihai - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
 
-<img alt="Sebastian Mihai - Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/_sebastianmihai/
-#   
+<img alt="Sebastian Mihai - Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/_sebastianmihai/
+<hr>
+
 ### My Skills:  
   
 <img align="left" alt="Python" width="26px" src="https://pluralsight.imgix.net/paths/python-7be70baaac.png" />
