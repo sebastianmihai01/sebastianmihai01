@@ -9,9 +9,9 @@
 
 ### My Contact Information:
 
-<img alt="Sebastian Mihai - LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
+<img alt="Sebastian Mihai - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
 
-<img alt="Sebastian Mihai - Instagram" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/_sebastianmihai/
+<img alt="Sebastian Mihai - Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/_sebastianmihai/
 <hr>
 
 ### My Skills:  
