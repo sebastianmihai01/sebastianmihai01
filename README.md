@@ -1,18 +1,11 @@
 <img src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" class="center">  
-*all of my repositories are private :)
-
 #  
-  
 ### My Contact Information:
-  
 <img align="left" alt="Sebastian Mihai - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
 
 <img align="left" alt="Sebastian Mihai - Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/_sebastianmihai/
-
-#  
-  
+#   
 ### My Skills:  
-
   
 <img align="left" alt="Python" width="26px" src="https://pluralsight.imgix.net/paths/python-7be70baaac.png" />
 <img align="left" alt="Pytorch" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
