@@ -1,11 +1,13 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 
 
-
+<p>
 <img width="40%" height="40%" align = "left" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
 <img  width="40%" height="40%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
+</p>
 
+#
 ### My Contact Information:
 
 <img alt="Sebastian Mihai - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
