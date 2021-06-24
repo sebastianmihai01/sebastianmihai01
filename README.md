@@ -1,10 +1,10 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 
 
-<img align = "left" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" class="center"> 
+<img align = "left" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
 <hr>
-<img align = "right" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=laxmena&layout=compact">
+<img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
 
 
 <hr size="8" width="100%" color="red">  
