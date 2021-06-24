@@ -1,19 +1,19 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=username.repoName)
 
 
-<img align = "center" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
-<img align = "center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
+<img width="40%" height="40%" align = "left" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
-<hr size ="10" width = "10%">
-
+<img  width="40%" height="40%" align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
 
 ### My Contact Information:
 
 <img alt="Sebastian Mihai - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> https://www.linkedin.com/in/sebastian-mihai/  
 
 <img alt="Sebastian Mihai - Instagram" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /> https://www.instagram.com/_sebastianmihai/
-<hr>
+
+<a align = "left" href="mailto:mihaisebastian01@gmail.com">![mihaisebastian01@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
 
 ### My Skills:  
   
