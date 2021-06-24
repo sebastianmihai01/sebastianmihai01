@@ -19,7 +19,7 @@
 
 <a align = "left" href="mailto:mihaisebastian01@gmail.com">![mihaisebastian01@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
-
+#
 ### My Skills:  
   
 <img align="left" alt="Python" width="30px" src="https://pluralsight.imgix.net/paths/python-7be70baaac.png" />
