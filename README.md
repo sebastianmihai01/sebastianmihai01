@@ -22,14 +22,14 @@
 #
 ### My Skills:  
     
-<img align="left" alt="Deep-Learning" width="30px" src="https://st4.depositphotos.com/16138592/30030/v/450/depositphotos_300302404-stock-illustration-machine-learning-logo-glyph-design.jpg" />  
-<img align="left" alt="Python" width="30px" src="https://pluralsight.imgix.net/paths/python-7be70baaac.png" />
-<img align="left" alt="Pytorch" width="30px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
-<img align="left" alt ="Java" width ="30px" src ="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
-<img align="left" alt="Selenium" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
-<img align="left" alt="Cucumber" width="26px" src="https://automationpanda.files.wordpress.com/2017/10/cucumber-logo-d727c551ce-seeklogo-com.png" />
-<img align="left" alt="REST" width="26px" src="https://i0.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/REST-API-icon.jpg?fit=217%2C232&ssl=1" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Deep-Learning" width="45px" src="https://st4.depositphotos.com/16138592/30030/v/450/depositphotos_300302404-stock-illustration-machine-learning-logo-glyph-design.jpg" />  
+<img align="left" alt="Python" width="45px" src="https://pluralsight.imgix.net/paths/python-7be70baaac.png" />
+<img align="left" alt="Pytorch" width="45px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img align="left" alt ="Java" width ="40px" src ="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
+<img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
+<img align="left" alt="Cucumber" width="36px" src="https://automationpanda.files.wordpress.com/2017/10/cucumber-logo-d727c551ce-seeklogo-com.png" />
+<img align="left" alt="REST" width="36px" src="https://i0.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/REST-API-icon.jpg?fit=217%2C232&ssl=1" />
+<img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
   
