@@ -21,11 +21,12 @@
 
 #
 ### My Skills:  
+<img align="left" alt="TensorFlow" width="45px" src="https://miro.medium.com/max/449/1*Bh_B98GcAHTzYq21D79GLg.png" />
 <img align="left" alt="React" width="45px" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" />
 <img align="left" alt="Spring" width="45px" src="https://res.infoq.com/articles/spring-boot-tutorial/en/headerimage/springboot-header-1585064952469.jpg" />
 <img align="left" alt="Firebase" width="45px" src="https://cdn-images-1.medium.com/max/1200/1*ti5CnGh_T4Kqy5aCTLJRcg.png" />
+<img align="left" alt="Keras" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" />
 <img align="left" alt="JavaScript" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />    
-<img align="left" alt="Deep-Learning" width="45px" src="https://st4.depositphotos.com/16138592/30030/v/450/depositphotos_300302404-stock-illustration-machine-learning-logo-glyph-design.jpg" />  
 <img align="left" alt="Python" width="45px" src="https://pluralsight.imgix.net/paths/python-7be70baaac.png" />
 <img align="left" alt="Pytorch" width="45px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
 <img align="left" alt ="Java" width ="40px" src ="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
