@@ -34,3 +34,4 @@
 <img align="left" alt ="Java" width ="40px" src ="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  
+(L->R, TensorFlow, Spring, Firebase, Keras, Selenium, Cucumber, Pytorch, React ...)
