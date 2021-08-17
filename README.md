@@ -32,6 +32,5 @@
 <img align="left" alt ="Java" width ="40px" src ="https://icon-library.com/images/java-icon-images/java-icon-images-6.jpg" />
 <img align="left" alt="Selenium" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" />
 <img align="left" alt="Cucumber" width="36px" src="https://automationpanda.files.wordpress.com/2017/10/cucumber-logo-d727c551ce-seeklogo-com.png" />
-<img align="left" alt="REST" width="36px" src="https://i0.wp.com/zappysys.com/blog/wp-content/uploads/2018/06/REST-API-icon.jpg?fit=217%2C232&ssl=1" />
 <img align="left" alt="Visual Studio Code" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />  
