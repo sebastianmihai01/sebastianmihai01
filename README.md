@@ -21,7 +21,8 @@
 
 #
 ### My Skills:  
-    
+<img align="left" alt="React" width="45px" src="https://www.pngitem.com/pimgs/m/664-6644509_icon-react-js-logo-hd-png-download.png" />
+<img align="left" alt="JavaScript" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" />    
 <img align="left" alt="Deep-Learning" width="45px" src="https://st4.depositphotos.com/16138592/30030/v/450/depositphotos_300302404-stock-illustration-machine-learning-logo-glyph-design.jpg" />  
 <img align="left" alt="Python" width="45px" src="https://pluralsight.imgix.net/paths/python-7be70baaac.png" />
 <img align="left" alt="Pytorch" width="45px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
