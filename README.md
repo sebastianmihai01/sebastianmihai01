@@ -14,6 +14,7 @@
 ### My Contact Information:
 
 <img alt="Sebastian Mihai - LinkedIn" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  https://www.linkedin.com/in/sebastian-mihai/  
+<br>
 <img alt="Sebastian Mihai - Gmail" width="20px" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_960_720.png" />  mihaisebastian01@gmail.com
 
 #
