@@ -7,7 +7,7 @@
  <img  width="40%" height="40%" align = "right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
 </p>
 
-<br><br><br><br><br>
+<br><br><br><br><br><br><br>
 
 #
 ### My Contact Information:
