@@ -1,6 +1,5 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sebastianmihai01.DeepLogistics)
 
-
 <p>
  <img width="40%" height="40%" align = "left" src= "https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
 
