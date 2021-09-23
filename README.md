@@ -10,12 +10,12 @@
 #
 ### My Skills:  
 <div>
- <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/nodejs/nodejs-horizontal.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/tensorflow/tensorflow-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/reactjs/reactjs-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mongodb/mongodb-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/expressjs/expressjs-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/cucumberio/cucumberio-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg"></code>
 </div>
  
 <br>
