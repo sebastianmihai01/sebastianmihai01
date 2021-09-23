@@ -1,11 +1,11 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=sebastianmihai01.DeepLogistics)
 
 <p>
- <img width="40%" height="40%" align = "left" src= "https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
-
- <img  width="40%" height="40%" align = "right" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
+<img  align = "left" width="40%" src= "https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+<img align="right" width="46%" height="50%" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
+<img width="40%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
+<br>
 </p>
-<br><br><br><br><br><br><br>
 
 #
 ### My Skills:  
@@ -20,9 +20,7 @@
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg"></code>
-
 </div>
- 
 <br>
  
 #
