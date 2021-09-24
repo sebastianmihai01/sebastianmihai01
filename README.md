@@ -1,5 +1,5 @@
 <div>
- <img  align = "left" width="40%" src= "https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
+ <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> 
  <img align="right" width="51%" height="100%" alt="GIF" src="https://64.media.tumblr.com/0ea83e1b98da48d2fa65e096afd9ffb0/tumblr_np13mlXqc61t4034jo1_r2_400.gifv"/>
  <img width="40%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
 <div>
