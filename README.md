@@ -1,6 +1,6 @@
 <div>
  <img align="right" width="51%" height="100%" alt="GIF" src="https://64.media.tumblr.com/142be7bb8cff7820dd139d6c3b3406cd/tumblr_nnzppwKRmH1t4034jo1_400.gifv"/>
- <img width="46.8%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
+ <img width="46%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
 <div>
 
 #
