@@ -16,8 +16,8 @@
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg"></code>
- <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
+ <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
 </div>
 <br>
  
