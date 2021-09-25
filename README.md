@@ -1,6 +1,6 @@
 <div>
  <img align="right" width="51%" height="100%" alt="GIF" src="https://64.media.tumblr.com/142be7bb8cff7820dd139d6c3b3406cd/tumblr_nnzppwKRmH1t4034jo1_400.gifv"/>
- <img width="46.9%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
+ <img width="46.89%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
 <div>
 
 #
@@ -25,4 +25,3 @@
 <img alt="Sebastian Mihai - LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> - https://www.linkedin.com/in/sebastian-mihai/  
 <img alt="Sebastian Mihai - Gmail" width="40px" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_960_720.png" /> - mihaisebastian01@gmail.com
 
- 
