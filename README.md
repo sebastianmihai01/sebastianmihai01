@@ -1,5 +1,5 @@
 <div>
- <img align="right" width="51%" height="100%" alt="GIF" src="https://64.media.tumblr.com/142be7bb8cff7820dd139d6c3b3406cd/tumblr_nnzppwKRmH1t4034jo1_400.gifv"/>
+ <img align="right" width="51%" height="100%" alt="GIF" src="https://i.kym-cdn.com/photos/images/newsfeed/001/854/536/b3b.gif"/>
  <img width="44%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
 <div>
 
