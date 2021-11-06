@@ -26,5 +26,3 @@
 
  <img alt="Sebastian Mihai - Gmail" width="40px" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_960_720.png" /> - mihaisebastian2507@gmail.com
  
-
- 
