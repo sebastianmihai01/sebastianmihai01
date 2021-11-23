@@ -22,8 +22,6 @@
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/cucumberio/cucumberio-ar21.svg"></code>
-
-
 </div>
 <br>
  
