@@ -4,7 +4,7 @@
 <div>
 
 #
-### My Skills:  
+### Tech Stack
 <div>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
@@ -26,7 +26,7 @@
 <br>
  
 #
-### My Contact Information:
+### Contact
 
  <img alt="Sebastian Mihai - Gmail" width="40px" src="https://cdn.pixabay.com/photo/2019/10/19/17/24/gmail-4561841_960_720.png" /> - mihaisebastian2507@gmail.com
  
