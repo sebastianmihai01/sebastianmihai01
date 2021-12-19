@@ -5,6 +5,8 @@
  <code><img width="8%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
  <code><img width="8%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
  <code><img width="8%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
+ <code><img width="8%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
+ <code><img width="8%" src="https://www.vectorlogo.zone/logos/graphql/graphql-ar21.svg"></code>
  <code><img width="8%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
  <code><img width="8%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
  <code><img width="8%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code>
