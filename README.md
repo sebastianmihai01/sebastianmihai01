@@ -1,6 +1,5 @@
 <div>
-<img align="left" width="30%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebastianmihai01&layout=compact">
-<span align="right" width="30px">
+ <span align="right" width="30px">
  <code><img width="7%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
  <code><img width="7%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
  <code><img width="7%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
