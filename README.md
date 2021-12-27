@@ -19,6 +19,4 @@
  <code><img width="7%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 </span>
 </div>
- 
-
 
