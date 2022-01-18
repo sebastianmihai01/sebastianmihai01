@@ -15,7 +15,5 @@
  <code><img width="7%" src="https://www.vectorlogo.zone/logos/raspberrypi/raspberrypi-ar21.svg"></code>
  <code><img width="7%" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"></code>
  <code><img width="7%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
- <code><img width="7%" src="https://www.vectorlogo.zone/logos/rapidapi/rapidapi-ar21.svg"></code>
- <code><img width="7%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
 </span>
 </div>
