@@ -19,7 +19,7 @@
   $\color{#419F07}{Tools}$
 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,py,postgresql,kubernetes,docker,java,typescript,nodejs,react,express,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,ruby,postgresql,py,java,typescript,nodejs,express,react)](https://skillicons.dev)
 
 <h3 style="color: #419F07;">
   $\color{#419F07}{Get~In~Touch}$
