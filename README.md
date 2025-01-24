@@ -16,7 +16,7 @@
 </ul>
 
 <h3 style="color: #419F07;">
-  Tools
+  $\color{#419F07}{Tools}$
 </h3>
 
 [![My Skills](https://skillicons.dev/icons?i=aws,py,postgresql,kubernetes,docker,java,typescript,nodejs,react,express,ruby)](https://skillicons.dev)
