@@ -5,7 +5,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=vue-dark" alt="my Github Stats"/>  
 
-<h3>
+<h3 style="color: #419F07;">
   Some projects
 </h3>
 <ul>
@@ -16,5 +16,7 @@
 </ul>
 <br>
 
-### Languages and Tools:
+<h3 style="color: #419F07;">
+  Languages and Tools:
+</h3>
 [![My Skills](https://skillicons.dev/icons?i=aws,py,postgresql,kubernetes,docker,java,typescript,nodejs,react,express,ruby)](https://skillicons.dev)
