@@ -6,12 +6,9 @@
       Hi, welcome 🙌
     </h1>
     <h2>
-      Projects on this account range from linear algebra, to handwriting detection with CNN 🤖 all the way up to BlackJack live apps on WebSockets 💻.
+      Projects on this profile (personal, non-work) range from linear algebra, to handwriting detection with CNN 🤖 all the way up to BlackJack live apps on WebSockets 💻.
       Most were written in Java, Python or TypeScript ☕️.
     </h2>
-    <h3>
-      The GitHub profile used at my job is separate, this is solely my personal profile 👨🏻.
-    </h3>
   </div>
 
   <!-- Images Section -->
