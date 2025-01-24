@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=419F07&width=435&lines=Hi%2C+Sebastian+here.+Welcome!" alt="Typing SVG"/>
 </a>
-<br/>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=vue-dark&title_color=419F07&icon_color=419F07" alt="my Github Stats"/>  
 
@@ -9,8 +8,8 @@
   $\color{#419F07}{Relevant~Projects~(Pinned)}$
 </h3>
 <ul>
-  <li> (new) Furniture sharing platform with React and Django/Node </li>
-  <li> (old) Self-driving 2D car with Convolutional Neuronal Networks </li>
+  <li> (new) Furniture sharing platform on React and Django/Node </li>
+  <li> (old) Self-driving 2D car with Convolutional NN </li>
   <li> (old) 2D Lib-GDX game in Android Studio (Java) </li>
   <li> (new) Furniture sharing platform with React and Django/Node </li>
   <li> (old) Handwriting detector </li>
