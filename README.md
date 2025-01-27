@@ -8,6 +8,7 @@
   $\color{#419F07}{Relevant~Projects~(Pinned)}$
 </h3>
 <ul>
+  <li> (new) Reusable microservices, using K8s, Terraform, Kafka and ELK stack </li>
   <li> (new) Furniture sharing platform on React and Django/Node </li>
   <li> (old) Self-driving 2D car with CNN </li>
   <li> (old) 2D Lib-GDX game in Android Studio </li>
