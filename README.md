@@ -9,9 +9,9 @@
 </h3>
 <ul>
   <li> (new) Reusable microservices using K8s, Terraform, Kafka and ELK stack </li>
-  <li> (new) Furniture sharing platform, with React and Django/Node </li>
   <li> (old) Self-driving 2D car with CNN </li>
   <li> (old) 2D Lib-GDX game in Android Studio </li>
+  <li> (new) Furniture sharing platform, with React and Django/Node </li>
   <li> (old) Handwriting detector </li>
   <li> (old) Object Classifier with TensorFlow </li>
 </ul>
