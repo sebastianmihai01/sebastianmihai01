@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=419F07&width=435&lines=Hi%2C+Sebastian+here.+Welcome!" alt="Typing SVG"/>
 </a>
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=vue-dark&title_color=419F07&icon_color=419F07" alt="my Github Stats"/>  
 
 <h3 style="color: #419F07;">
