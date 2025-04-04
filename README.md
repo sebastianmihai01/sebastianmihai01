@@ -4,6 +4,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=vue-dark&title_color=419F07&icon_color=419F07" alt="my Github Stats"/>  
 
+
 <h3 style="color: #419F07;">
   $\color{#419F07}{Relevant~Projects~(Pinned)}$
 </h3>
