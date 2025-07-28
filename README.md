@@ -2,7 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=419F07&width=435&lines=Hi%2C+Sebastian+here.+Welcome!" alt="Typing SVG"/>
 </a>
 
-
 <h3 style="color: #419F07;">
   Relevant Projects
 </h3>
