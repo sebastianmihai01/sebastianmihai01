@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=419F07&width=435&lines=Sebastian" alt="Typing SVG"/>
 </a>
 
-**Relevant Projects**: Text mining with Dirichlet Allocation on corporate disclosures, Reusable microservices temaples (K8s, Terraform, Kafka, ELK stack), Self-driving 2D car with CNN, LibGDX game in Android STudio, Handrwiting Dector and multiple personal projects
+**Relevant Projects**: Text mining with Dirichlet Allocation on corporate disclosures, Reusable microservices temaples (K8s, Terraform, Kafka, ELK stack), Self-driving 2D car with CNN, LibGDX game in Android STudio, Handrwiting Dector & more
 
 <h3 style="color: #419F07;">
   Tools
