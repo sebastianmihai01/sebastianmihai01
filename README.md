@@ -11,13 +11,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,ruby,postgresql,py,java,typescript,nodejs,express,react)](https://skillicons.dev)
 
-<a target="_blank">
-</img>
-  <h3 style="color: #419F07;">
-   Get in Touch
-  </h3>
-</a>
+<h3 style="color: #419F07;">
+ Get in Touch
+</h3>
 
 <a target="_blank" href="https://www.linkedin.com/in/sebastian-mihai"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:mihaisebastian01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
+<a href="https://github.com/sebastianmihai01/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01" />
+</a>
+<a href="https://github.com/sebastianmihai01/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianmihai01&layout=compact&langs_count=8&card_width=320" />
+</a>
