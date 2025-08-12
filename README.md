@@ -2,17 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=419F07&width=435&lines=Hi%2C+Sebastian+here.+Welcome!" alt="Typing SVG"/>
 </a>
 
-<h3 style="color: #419F07;">
-  Relevant Projects
-</h3>
-<ul>
-  <li> (new) Reusable microservices using K8s, Terraform, Kafka and ELK stack </li>
-  <li> (old) Self-driving 2D car with CNN </li>
-  <li> (old) Lib-GDX game in Android Studio </li>
-  <li> (new) Furniture sharing platform, with React and Django/Node </li>
-  <li> (old) Handwriting detector </li>
-  <li> (old) Object Classifier with TensorFlow </li>
-</ul>
+**Relevant Projects**: Text mining with Dirichlet Allocation on corporate disclosures, Reusable microservices temaples (K8s, Terraform, Kafka, ELK stack), Self-driving 2D car with CNN, LibGDX game in Android STudio, Handrwiting Dector and multiple personal projects
+
 
 <h3 style="color: #419F07;">
   Tools
