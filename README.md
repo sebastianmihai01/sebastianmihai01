@@ -21,6 +21,7 @@
   <div>
     
   <div>
-  ![Sebastian Github Stats](https://github-readme-stats.vercel.app/api?username=sebastianmihai01&show_icons=true&theme=shadow_green)
+  <img src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&show_icons=true&theme=shadow_green"/>
   </div>
 </div>
+
