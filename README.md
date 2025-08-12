@@ -19,8 +19,8 @@
 <a target="_blank" href="mailto:mihaisebastian01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 <a href="https://github.com/sebastianmihai01/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&theme=transparent" />
 </a>
 <a href="https://github.com/sebastianmihai01/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianmihai01&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianmihai01&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
