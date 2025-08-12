@@ -5,7 +5,7 @@
 **Relevant Projects**: Text mining with Dirichlet Allocation on corporate disclosures, Reusable microservices temaples (K8s, Terraform, Kafka, ELK stack), Self-driving 2D car with CNN, LibGDX game in Android STudio, Handrwiting Dector and multiple personal projects
 
 
-<div style="display: flex">
+<div style="display: column">
   <div>
   <h3 style="color: #419F07;">
     Tools
