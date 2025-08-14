@@ -27,3 +27,4 @@
 <a href="https://github.com/sebastianmihai01/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&theme=transparent&text_color=419F07&title_color=ffffff&locale=nl&include_all_commits=true&rank_icon=github&hide_rank=true" />
 </a>
+
