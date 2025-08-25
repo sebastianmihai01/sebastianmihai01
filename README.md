@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=419F07&width=435&lines=Sebastian" alt="Typing SVG"/>
 </a>
 
-**Relevant Projects**: Text mining with Dirichlet Allocation on corporate disclosures, Reusable microservices temaples (K8s, Terraform, Kafka, ELK stack), Self-driving 2D car with CNN, LibGDX game in Android STudio, Handrwiting Dector & more
+**Relevant Projects**: Text mining with Dirichlet Allocation on corporate disclosures, Reusable microservices temaples (K8s, Terraform, Kafka, ELK stack), Self-driving 2D car with CNN, LibGDX game in Android Studio, Handrwiting Dector & more
 
 <h3 style="color: #419F07;">
   Tools
@@ -27,4 +27,3 @@
 <a href="https://github.com/sebastianmihai01/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&theme=transparent&text_color=419F07&title_color=ffffff&locale=nl&include_all_commits=true&rank_icon=github&hide_rank=true" />
 </a>
-
