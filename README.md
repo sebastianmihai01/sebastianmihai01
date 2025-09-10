@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=419F07&width=435&lines=Sebastian" alt="Typing SVG"/>
 </a>
 
-Ambitious software architect with double educational background in finance (innovation, leadership, strategy) and engineering. Worked on projects such as Text mining with Dirichlet Allocation on corporate disclosures, Reusable microservices temaples (K8s, Terraform, Kafka, ELK stack), Self-driving 2D car with CNN and more.
+Ambitious software architect with double educational background in finance/innovation/leadership and engineering. Worked on projects such as Text mining with Dirichlet Allocation on corporate disclosures, Reusable microservices temaples (K8s, Terraform, Kafka, ELK stack), Self-driving 2D car with CNN and more.
 
 <h3 style="color: #419F07;">
   Tools
