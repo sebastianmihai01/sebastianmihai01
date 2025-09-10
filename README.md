@@ -28,5 +28,5 @@ Some projects I've been working on: Text mining with Dirichlet Allocation on cor
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&theme=transparent&text_color=419F07&title_color=ffffff&locale=nl&include_all_commits=true&rank_icon=github&hide_rank=true" />
 </a>
 <a href="https://roadmap.sh">
-  <img src="https://roadmap.sh/card/wide/64b7cc4e6a01543ae2dd44aa?variant=dark" alt="roadmap.sh"/>
+  <img src="https://roadmap.sh/card/wide/64b7cc4e6a01543ae2dd44aa?variant=dark&roadmaps=software-design-architecture%2Csystem-design%2Ckubernetes%2Csoftware-architect" alt="roadmap.sh"/>
 </a>
