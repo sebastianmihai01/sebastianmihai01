@@ -8,7 +8,6 @@ Some projects I've been working on: Text mining with Dirichlet Allocation on cor
   Tools
 </h3>
 
-
 [![My Skills](https://skillicons.dev/icons?i=aws,kubernetes,docker,ruby,postgresql,py,java,typescript,nodejs,express,react)](https://skillicons.dev)
 
 <h3 style="color: #419F07;">
