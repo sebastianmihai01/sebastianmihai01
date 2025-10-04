@@ -21,12 +21,6 @@ Some projects I've been working on: Text mining with Dirichlet Allocation on cor
  Stats
 </h3>
 
-<a href="https://github.com/sebastianmihai01/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sebastianmihai01&layout=compact&langs_count=8&card_width=320&theme=transparent&text_color=419F07&title_color=ffffff&locale=nl" />
-</a>
-<a href="https://github.com/sebastianmihai01/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=sebastianmihai01&theme=transparent&text_color=419F07&title_color=ffffff&locale=nl&include_all_commits=true&rank_icon=github&hide_rank=true" />
-</a>
 <a href="https://roadmap.sh">
   <img src="https://roadmap.sh/card/wide/64b7cc4e6a01543ae2dd44aa?variant=dark&roadmaps=software-design-architecture%2Csystem-design%2Ckubernetes%2Csoftware-architect" alt="roadmap.sh"/>
 </a>
