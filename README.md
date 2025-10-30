@@ -19,4 +19,3 @@ Some fun projects: Text mining with Dirichlet Allocation on corporate disclosure
 <a href="https://roadmap.sh">
   <img src="https://roadmap.sh/card/wide/64b7cc4e6a01543ae2dd44aa?variant=dark&roadmaps=software-design-architecture%2Csystem-design%2Ckubernetes%2Csoftware-architect" alt="roadmap.sh"/>
 </a>
-
