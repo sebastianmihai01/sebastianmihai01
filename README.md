@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=419F07&width=435&lines=Sebastian" alt="Typing SVG"/>
 </a>
 
-Some fun projects: Text mining with Dirichlet Allocation on corporate disclosures, Self-driving 2D car with CNN, handwriting translation software
+**Some fun projects**: Text mining with Dirichlet Allocation on corporate disclosures, Self-driving 2D car with CNN, handwriting translation software
 
 <h3 style="color: #419F07;">
   Tools
